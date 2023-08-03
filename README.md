@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m Fresher, graduated IT from Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College.<br>👯 I’m looking to collaborate on software developing related websites, applications.<br>🤝 I’m looking for help with seeking assistance with practical software development and employment opportunities in the field<br>🌱 I’m currently learning Javascript ,MySql,and node.js<br>
+👋 Hi there! I'm a Fresher, having graduated in IT from Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College.<br>
+🌐 I'm eager to collaborate on exciting projects related to software development, including websites and applications.<br>
+🤝 I'm open to receiving guidance and assistance from experienced professionals in practical software development and seeking employment opportunities in the field.<br>
+📚 Currently, I'm focused on learning JavaScript, MySQL, and Node.js to further enhance my skills in web development. Let's connect and explore the world of software together!<br>
 
 
 ## 🌐 Socials:
